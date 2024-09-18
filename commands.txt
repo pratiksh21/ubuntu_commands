@@ -1,0 +1,165 @@
+prsh@hp:~/Desktop$ history
+    1  uname -r
+    2  lsb_release -a
+    3  sudo apt update
+    4  sudo apt-get upgrade
+    5  clear
+    6  sudo apt update
+    7  clear
+    8  uname-r
+    9  uname -r
+   10  clear
+   11  ls
+   12  cd Do
+   13  cd Downloads/
+   14  ls
+   15  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   16  ls
+   17  sudo dpkg -i jdk-22.0.1_linux-x64_bin.deb 
+   18  java --version
+   19  nvm install 22
+   20  node -v
+   21  npm -v
+   22  clear
+   23  java -version
+   24  clear
+   25  python3 --version
+   26  clear
+   27  ls
+   28  cd Do
+   29  cd Downloads/
+   30  ls
+   31  chmod +x VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle 
+   32  ./VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle 
+   33  sudo ./VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle 
+   34  sudo apt install git gcc-12 libgcc-12-dev build-essential linux-headers-$(uname -r) -y
+   35  ls
+   36  java -jar BurpLoaderKeygen.jar 
+   37  ls
+   38  java -jar keygen.jar 
+   39  clear
+   40  java -jar keygen.jar 
+   41  ls
+   42  cd Downloads/
+   43  ls
+   44  chmod +x burpsuite_community_linux_v2024_7_6.sh
+   45  ls
+   46  chmode +x burpsuite_pro_linux_v2024_7_6.sh 
+   47  chmod +x burpsuite_pro_linux_v2024_7_6.sh 
+   48  ./burpsuite_pro_linux_v2024_7_6.sh 
+   49  ls
+   50  java -jar keygen.jar 
+   51  clear
+   52  java -jar keygen.jar 
+   53  sudo apt install default-jre
+   54  ls
+   55  java -jar BurpLoaderKeygen.jar 
+   56  ls
+   57  ./uninstall 
+   58  cd ..
+   59  ls
+   60  chmode +x burpsuite_pro_linux_v2024_7_6.sh 
+   61  chmod +x burpsuite_pro_linux_v2024_7_6.sh 
+   62  ./burpsuite_pro_linux_v2024_7_6.sh 
+   63  ls
+   64  java -jar BurpLoaderKeygen.jar 
+   65  clear
+   66  ./uninstall 
+   67  which java
+   68  ls -l /path/to/burp-suite.jar
+   69  sudo ls -l /path/to/burp-suite.jar
+   70  nano ~/.local/share/applications/burpsuite.desktop
+   71  chmod +x ~/.local/share/applications/burpsuite.desktop
+   72  cp ~/.local/share/applications/burpsuite.desktop ~/Desktop/
+   73  chmod +x ~/Desktop/burpsuite.desktop
+   74  nano ~/.local/share/applications/burpsuite.desktop
+   75  history
+   76  nano ~/.local/share/applications/burpsuite.desktop
+   77  cp ~/.local/share/applications/burpsuite.desktop ~/Desktop/
+   78  chmod +x ~/Desktop/burpsuite.desktop
+   79  ls
+   80  java -jar BurpLoaderKeygen.jar 
+   81  cd ..
+   82  ls
+   83  cd BurpSuite-Pro/
+   84  ls
+   85  pwd
+   86  ~/.local/share/applications/
+   87  cd /local/share/applications/
+   88  cd local/share/applications/
+   89  cd /local
+   90  clear
+   91  cd /applications
+   92  sudo su
+   93  sudo apt install gedit
+   94  clear
+   95  unmame -r
+   96  uname -r
+   97  clear
+   98  sudo apt update
+   99  sudo apt upgrade
+  100  clear
+  101  lsb_release -a
+  102  sudo apt full-upgrade
+  103  sudo apt autoremove
+  104  sudo apt update
+  105  sudo apt upgrade
+  106  sudo apt dist-upgrade
+  107  sudo apt install update-manager-core
+  108  sudo do-release-upgrade
+  109  history
+  110  gedit ~/.local/share/applications/burpsuite.desktop
+  111  pwd
+  112  ls
+  113  sudo dpkg -i virtualbox-7.1_7.1.0-164728~Ubuntu~noble_amd64.deb 
+  114  clear
+  115  sudo add-apt-repository universe
+  116  sudo apt update
+  117  sudo apt install  liblzf1 libqt5help5 libqt5opengl5 libqt5printsupport5 libqt5xml5 libtpms0
+  118  sudo apt --fix-broken install
+  119  sudo dpkg -i virtualbox-7.1_7.1.0-164728~Ubuntu~noble_amd64.deb 
+  120  clear
+  121  sudo apt update
+  122  sudo apt install -y gcc make linux-headers-$(uname -r)
+  123  clear
+  124  sudo apt updare
+  125  sudo apt update
+  126  sudo apt upgrade
+  127  clear
+  128  sudo apt update
+  129  clear
+  130  sudo apt update
+  131  sudo snap refresh
+  132  sudo apt install zip curl wget git
+  133  sudo snap install golang --classic
+  134  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
+  135  sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+  136  sudo apt update 
+  137  sudo apt install google-chrome-stable
+  138  go install github.com/projectdiscovery/katana/cmd/katana@latest
+  139  snap info go
+  140  sudo snap install golang --classic
+  141  clear
+  142  sudo apt autoremove
+  143  clear
+  144  sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+  145  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
+  146  sudo rm /etc/apt/sources.list.d/google.list
+  147  sudo apt-key list
+  148  ls /etc/apt/trusted.gpg.d/
+  149  sudo rm /etc/apt/trusted.gpg.d/google.gpg
+  150  sudo rm /etc/apt/trusted.gpg.d/google-chrome.gpg
+  151  ls /etc/apt/trusted.gpg.d/
+  152  clear
+  153  sudo apt update
+  154  ls /etc/apt/sources.list.d/
+  155  sudo rm /etc/apt/sources.list.d/google.list
+  156  sudo rm /etc/apt/sources.list.d/google-chrome.list
+  157  ls /etc/apt/sources.list.d/
+  158  sudo apt-key list
+  159  ls /etc/apt/trusted.gpg.d/
+  160  sudo apt clean
+  161  sudo apt update
+  162  clear
+  163  gedit github_bug.txt
+  164  history
